@@ -1,5 +1,4 @@
 otro saludo
-otro saludo desde develop, para poder practicar
 
 
-otros mensajes
+otro saludo desde develop
