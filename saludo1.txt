@@ -5,3 +5,5 @@ mas mensajes,
 
 nuevos, mensajes
 nueva funcionalidad de reportes
+
+este bloque arregla la funcionalidad de reportes
